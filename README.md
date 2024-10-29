@@ -15,7 +15,7 @@ Familiarity with AWS services like IAM, Lambda,SES and Cloud Watch
 
 Architecture Diagram :
 
-![image](https://github.com/user-attachments/assets/45de793b-32fc-49c2-9930-6f701cda33d0)
+![image](https://github.com/user-attachments/assets/45de793b-32fc-49c2-9930-6f701cda33d0) 
 
 1)AWS Lambda:AWS Lambda is a serverless computing service that allows you to run code without provisioning or managing servers
 
